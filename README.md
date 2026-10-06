@@ -1,4 +1,4 @@
-# AccuKnox - Alert Triage Workflow (Assessment 2)
+<img width="1366" height="768" alt="Screenshot 2026-10-06 113608" src="https://github.com/user-attachments/assets/c1123494-120e-44b2-ba41-60f7be004a3d" /># AccuKnox - Alert Triage Workflow (Assessment 2)
 
 ### 1. Problem Statement
 Security engineers get 100+ alerts daily. No context, need to switch 4-5 tools to investigate one alert. Takes 2 hours to resolve.
@@ -45,4 +45,6 @@ Pain Points: No timeline, no logs in one place, can't find root cause fast
 https://www.figma.com/design/wRW4070ml7gYylIRlcZKzI/Untitled?node-id=0-1&t=VMR3I9ksMWPxBdmU-1
 
 ### 8. Screenshots
-[Upload Figma screenshots here]
+<img width="1366" height="768" alt="Screenshot 2026-10-06 113608" src="https://github.com/user-attachments/assets/d122bdf6-8beb-4751-b5dd-6d9ca8ed2b68" />
+
+
