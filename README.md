@@ -42,9 +42,10 @@ Pain Points: No timeline, no logs in one place, can't find root cause fast
 4. Integration: Slack notification for Critical alerts
 
 ### 7. Figma Link
-https://www.figma.com/design/wRW4070ml7gYylIRlcZKzI/Untitled?node-id=0-1&t=VMR3I9ksMWPxBdmU-1
+https://www.figma.com/design/wRW4070ml7gYylIRlcZKzI/Untitled?node-id=0-1&t=hODWPJdZ5WBox7mB-1
 
 ### 8. Screenshots
-<img width="1366" height="768" alt="Screenshot 2026-10-06 113608" src="https://github.com/user-attachments/assets/d122bdf6-8beb-4751-b5dd-6d9ca8ed2b68" />
+<img width="1366" height="768" alt="Accunknox" src="https://github.com/user-attachments/assets/52328a58-fa19-463a-b3c5-9040ded27fd6" />
+
 
 
